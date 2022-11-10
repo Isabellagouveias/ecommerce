@@ -1,0 +1,7 @@
+Espaços em brancos
+Comentários
+Código comentado
+Números mágicos
+Nomes estranhos
+Condições confusas - ifs complexos
+Longa lista de parametros

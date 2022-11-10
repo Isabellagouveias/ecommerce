@@ -1,0 +1,11 @@
+TDD - Test Driven Development
+Code Smells - Más práticas
+SOLID :  
+    S - Single Responsability Principal
+    O - Open/Closed Principal
+    L - Liskov Substitution Principal
+    I - Interface Segretation Principal
+    D - Depency Inversion Principal
+Value Object - Objeto de Valor
+Clean Arcitecture
+DDD - Domain Driven Design
